@@ -1,5 +1,6 @@
 # Like A Pro theme Visual Studio Code
 
+[![Beerpay](https://beerpay.io/onebelarusianguy/Like-A-Pro-VS-Code-theme/badge.svg?style=plastic)](https://beerpay.io/onebelarusianguy/Like-A-Pro-VS-Code-theme)
 
 Code like a Pro with the Like A Pro theme for VS Code.
 
@@ -18,12 +19,15 @@ Code like a Pro with the Like A Pro theme for VS Code.
 
  - HTML
  - CSS
- ---   SCSS
+  - SCSS
  - JavaScript
+   - JSON
  - Python
  - PHP
 
-### License
+### [Premium WordPress themes](https://likeaprothemes.com) License
 
 MIT
+
+[![Beerpay](https://beerpay.io/onebelarusianguy/Like-A-Pro-VS-Code-theme/badge.svg?style=plastic)](https://beerpay.io/onebelarusianguy/Like-A-Pro-VS-Code-theme)
 
