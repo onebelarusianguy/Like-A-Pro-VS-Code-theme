@@ -4,6 +4,10 @@
     "displayName": "Like-A-Pro theme",
     "description": "A super awesome Visual Studio Code theme.",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/onebelarusianguy/Like-A-Pro-VS-Code-theme.git"
+    },
     "engines": {
         "vscode": "^1.39.0"
     },
