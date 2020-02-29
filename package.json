@@ -1,0 +1,22 @@
+{
+    "name": "like-a-pro-theme",
+    "publisher": "likeapro",
+    "displayName": "Like-A-Pro theme",
+    "description": "A super awesome Visual Studio Code theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Like-A-Pro theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Like-A-Pro theme-color-theme.json"
+            }
+        ]
+    }
+}
