@@ -2,7 +2,9 @@
 
 [![Beerpay](https://beerpay.io/onebelarusianguy/Like-A-Pro-VS-Code-theme/badge.svg?style=plastic)](https://beerpay.io/onebelarusianguy/Like-A-Pro-VS-Code-theme) - buy me a beer, I don't drink tho
 
+
 Code like a Pro with the Like A Pro theme for VS Code.
+
 
 ![Like A Pro theme for VS Code](snapshot.png)
 
