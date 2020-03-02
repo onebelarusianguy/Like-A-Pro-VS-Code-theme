@@ -31,7 +31,8 @@ Code like a Pro with the Like A Pro theme for VS Code.
  - Python
  - PHP
 
-### [Premium WordPress themes](https://likeaprothemes.com) License
+### [Premium WordPress themes](https://likeaprothemes.com)
+License
 
 MIT
 
