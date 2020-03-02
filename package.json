@@ -1,26 +1,32 @@
 {
-    "name": "like-a-pro-theme",
-    "publisher": "likeapro",
-    "displayName": "Like-A-Pro theme",
-    "description": "A super awesome Visual Studio Code theme.",
-    "version": "0.0.1",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/onebelarusianguy/Like-A-Pro-VS-Code-theme.git"
-    },
-    "engines": {
-        "vscode": "^1.39.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Like-A-Pro theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Like-A-Pro theme-color-theme.json"
-            }
-        ]
-    }
+	"name": "like-a-pro-theme",
+	"publisher": "likeapro",
+	"displayName": "Like A Pro theme",
+	"description": "A super awesome Visual Studio Code theme.",
+	"icon": "256.png",
+	"version": "0.0.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/onebelarusianguy/Like-A-Pro-VS-Code-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.39.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Like A Pro theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Like-A-Pro theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "eac4e758-6359-465a-9214-4f2ea13e2472",
+		"publisherDisplayName": "Pavel Marhaunichy",
+		"publisherId": "c06cd820-70cf-435b-9445-fd13345b8d44"
+	}
 }
