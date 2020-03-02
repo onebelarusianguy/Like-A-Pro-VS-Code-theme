@@ -8,8 +8,8 @@ Code like a Pro with the Like A Pro theme for VS Code.
 
 
 
-![Like A Pro theme for VS Code](snapshot1.png)
 ![Like A Pro theme for VS Code](snapshot.png)
+![Like A Pro theme for VS Code](snapshot1.png)
 ![Like A Pro theme for VS Code](snapshot2.png)
 
 #### Installation
