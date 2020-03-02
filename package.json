@@ -4,7 +4,7 @@
 	"displayName": "Like A Pro theme",
 	"description": "A super awesome Visual Studio Code theme.",
 	"icon": "256.png",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/onebelarusianguy/Like-A-Pro-VS-Code-theme.git"
