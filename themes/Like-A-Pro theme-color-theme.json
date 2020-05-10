@@ -93,7 +93,7 @@
     "sideBar.dropBackground": "#191919bf",
     "sideBarTitle.foreground": "#525053",
     "sideBarSectionHeader.background": "#292929",
-    "sideBarSectionHeader.foreground": "#444",
+    "sideBarSectionHeader.foreground": "#f0e190",
     "editorGroup.emptyBackground": "#131313",
     "editorGroup.focusedEmptyBorder": "#191919",
     "editorGroup.border": "#00000000",
