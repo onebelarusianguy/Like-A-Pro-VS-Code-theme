@@ -1,7 +1,5 @@
 # Like A Pro theme Visual Studio Code
 
-[![Beerpay](https://img.shields.io/badge/donate-0-red)](https://beerpay.io/onebelarusianguy/Like-A-Pro-VS-Code-theme) - buy me a beer, I don't drink tho
-
 
 
 Code like a Pro with the Like A Pro theme for VS Code.
@@ -35,6 +33,4 @@ Code like a Pro with the Like A Pro theme for VS Code.
 License
 
 MIT
-
-[![Beerpay](https://img.shields.io/badge/donate-0-red)](https://beerpay.io/onebelarusianguy/Like-A-Pro-VS-Code-theme) - support me to be more Open Sourced
 
